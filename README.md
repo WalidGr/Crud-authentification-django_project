@@ -1,1 +1,1 @@
-# Crud-authentification-django_project
+# Crud-authentification-Python-django_project
